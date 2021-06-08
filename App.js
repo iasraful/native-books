@@ -9,7 +9,7 @@ export default function App() {
     <View style={styles.container}>
       <Header />
       <BookList />
-      <StatusBar style="auto" />
+      <StatusBar style='auto' />
     </View>
   );
 }
